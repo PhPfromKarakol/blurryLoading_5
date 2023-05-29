@@ -1,1 +1,1 @@
-# Blurry Loading example from practice from the course
+# Blurry Loading example from practice
